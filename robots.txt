@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ayakit-official.github.io/movieadda/sitemap.xml
